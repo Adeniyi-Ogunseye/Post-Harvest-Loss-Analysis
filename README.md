@@ -40,3 +40,15 @@ By Supply Chain Stage: Pinpoint where losses happen—harvesting, storage, trans
 
 By Geography: Aggregate data by geopolitical zones to find regional hotspots.
 
+3. Insights and Recommendations
+Nobody largely likes to waste efforts, resources and time most especially productive people. Imagine going to your workplace, with the attendant costs such as feeding, transportation, commuting etc only to end up wasting almost 20% of your income at the end of day. For most individuals this could be frightening, but that is the case of Nigeria’s grain production where crop losses increase as production figures increase over the years.
+a. Despite the general increase in harvested grains from 2010 to 2025, it was disheartening that crop loss also followed the same trend. On a national scale this implies that 18.35% of the efforts, resources and time put into production was wasted. 
+b. Harvest records in terms of economic value showed that the north performed far better than the south. In the north, the north-west (34.25%) was the best producer followed by the north-east (20.32%) and the north-central (19.25%). The south-west (9.95%) performed best followed by the south-east (9.03%), while the south-south (7.2%) had the least figure in the south.
+c. The crop loss records however increased as production figure increases. Crop loss rate was 22% (Maize), 17% (Sorghum) and 15% (Rice) across all the regions. Whilst the average national crop loss rate for the three grains combined was 18.35%, three regions had figures above the national average. South-west (19.12%), north-east (18.54%), south-south (18.53%), north-west (18.24%), north-central (18.12%) and south-east (17.71%).
+d. Out of the four supply chain stages that were evaluated for crop losses, Storage accounted for the highest (44.34%), the least being Transportation (13.1%), Harvesting and Field Drying (24%), Threshing and Cleaning (18.55%). 
+This shows that crop losses start from the farms through processing, transportation and storage. It is therefore expedient for governments and policy makers at national and sub-national levels to work on improving transportation infrastructures, work with the farmers to improve processing methods such as threshing and adequate drying to acceptable moisture levels. A lot of emphasis must be put on grains storage facilities to reduce storage losses due to moisture absorption, handling, rodents and storage pests. Modern storage facilities where relative humidity and temperature can be controlled should be introduced.
+
+
+<img width="1366" height="768" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/07e31228-07a9-4bd6-8780-29483706ca75" />
+
+
