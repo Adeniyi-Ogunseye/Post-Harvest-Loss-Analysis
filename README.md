@@ -2,14 +2,14 @@ Project Title: A Descriptive Analysis of Post-harvest Grain Losses Across Nigeri
 
 Domain: Agriculture
 
-Project Objective
+Project Objective:
 Understanding the importance of post-harvest losses – and specifically why addressing and reducing them matters – is critical for global food security, economic stability, and resource conservation.
 This project sees to quantify, visualize, and map the economic and volume losses of key staple grains in Nigeria in order to identify which regions, crops, and supply chain stages experience the highest inefficiencies to help policymakers target interventions.
 
-Selected Crops
+Selected Crops:
 The focus will be the top three cereal grains produced in Nigeria which are maize, rice, and sorghum.
 
-Data Source
+Data Source:
 The foundational, source-level raw datasets from which these comprehensive national and sub-national agricultural metrics are compiled can be accessed through their primary institutional portals:
 National Production & Household Surveys: The comprehensive sub-national household and crop data is hosted on the National Bureau of Statistics Microdata Catalog under the National Agricultural Sample Census (NASC) portal.
 
