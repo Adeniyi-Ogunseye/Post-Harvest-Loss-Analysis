@@ -25,20 +25,20 @@ https://lens.usercontent.google.com/banana?agsi=CqwBL2Zvb3RwcmludHMtcHJvZC1zZWFy
 Tasks
 1. Key Metrics to Calculate
 
-Loss Percentage: (Volume Lost / Total Volume Harvested) × 100
+a. Loss Percentage: (Volume Lost / Total Volume Harvested) × 100
 
-Financial Impact: Volume Lost × Average Local Market Price (expressed in Nigerian Naira ₦)
+b. Financial Impact: Volume Lost × Average Local Market Price (expressed in Nigerian Naira ₦)
 
-Caloric Deficit: Volume Lost × Calorie Count per Kilogram (to show the impact on food security)
+c. Caloric Deficit: Volume Lost × Calorie Count per Kilogram (to show the impact on food security)
 
 
 2. Analytical Dimensions (How to slice the data)
 
-By Crop Type: Maize, Rice, Sorghum.
+a. By Crop Type: Maize, Rice, Sorghum.
 
-By Supply Chain Stage: Pinpoint where losses happen—harvesting, storage, transport, or processing.
+b. By Supply Chain Stage: Pinpoint where losses happen—harvesting, storage, transport, or processing.
 
-By Geography: Aggregate data by geopolitical zones to find regional hotspots.
+c. By Geography: Aggregate data by geopolitical zones to find regional hotspots.
 
 3. Insights and Recommendations
 Nobody largely likes to waste efforts, resources and time most especially productive people. Imagine going to your workplace, with the attendant costs such as feeding, transportation, commuting etc only to end up wasting almost 20% of your income at the end of day. For most individuals this could be frightening, but that is the case of Nigeria’s grain production where crop losses increase as production figures increase over the years (2010 to 2025).
