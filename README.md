@@ -49,6 +49,6 @@ d. Out of the four supply chain stages that were evaluated for crop losses, Stor
 This shows that crop losses start from the farms through processing, transportation and storage. It is therefore expedient for governments and policy makers at national and sub-national levels to work on improving transportation infrastructures, work with the farmers to improve processing methods such as threshing and adequate drying to acceptable moisture levels. A lot of emphasis must be put on grains storage facilities to reduce storage losses due to moisture absorption, handling, rodents and storage pests. Modern storage facilities where relative humidity and temperature can be controlled should be introduced.
 
 
-<img width="1366" height="768" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/07e31228-07a9-4bd6-8780-29483706ca75" />
+<img width="1366" height="768" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/5e18b354-7258-4e3e-874b-f60e45f36456" />
 
 
