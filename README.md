@@ -48,6 +48,8 @@ c. The crop loss records however increased as production figure increases. Crop 
 d. Out of the four supply chain stages that were evaluated for crop losses, Storage accounted for the highest (44.34%), the least being Transportation (13.1%), Harvesting and Field Drying (24%), Threshing and Cleaning (18.55%). 
 This shows that crop losses start from the farms through processing, transportation and storage. It is therefore expedient for governments and policy makers at national and sub-national levels to work on improving transportation infrastructures, work with the farmers to improve processing methods such as threshing and adequate drying to acceptable moisture levels. A lot of emphasis must be put on grains storage facilities to reduce storage losses due to moisture absorption, handling, rodents and storage pests. Modern storage facilities where relative humidity and temperature can be controlled should be introduced.
 
+The Dashboard Image is shown below:
+
 
 <img width="1366" height="768" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/5e18b354-7258-4e3e-874b-f60e45f36456" />
 
