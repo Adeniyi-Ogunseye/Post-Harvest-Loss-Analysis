@@ -52,5 +52,6 @@ Dashboard Image
 
 
 
-<img width="1366" height="768" alt="Screenshot (242)" src="https://github.com/user-attachments/assets/f920bf26-578e-4b7f-8c01-a44d24e3a8e8" />
+<img width="1366" height="768" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/8abf1af0-7f89-4051-8f85-992313d4522f" />
+
 
